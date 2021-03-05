@@ -57,3 +57,30 @@ background:black;
 }
 
 
+.navs{
+    background-color:black;
+    position:absolute ;
+    width:27px;
+    height:5px;
+    border-radius:2px; 
+}
+
+.navs:before{
+    content:'';
+     background-color:black;
+    position:absolute ;
+    width:27px;
+    height:5px;
+    border-radius:2px; 
+    top:8px;
+}
+
+.navs:after{
+    content:'';
+     background-color:black;
+    position:absolute ;
+    width:27px;
+    height:5px;
+    border-radius:2px; 
+    top:16px;
+}
