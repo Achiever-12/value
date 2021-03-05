@@ -3,3 +3,7 @@ color:red;
 content:'hi';
 font-size:20px;
 }
+.card-red{
+background-color:red;
+border-radius:10px;
+}
