@@ -6,21 +6,33 @@ font-size:20px;
 .card-red{
 background-color:red;
 border-radius:10px;
+position:relative;
+color:white;
+margin:auto;
 }
 
 .card-blue{
     background-color:blue;
     border-radius:10px;
+    position:relative;
+color:white;
+margin:auto;
 }
 
 .card-yellow{
     background-color:yellow;
     border-radius:10px;
+position:relative;
+color:white;
+margin:auto;
 }
 
 .card-purple{
     background-color:purple;
     border-radius:10px;
+position:relative;
+color:white;
+margin:auto;
 }
 
 
