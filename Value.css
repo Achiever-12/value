@@ -9,6 +9,9 @@ border-radius:10px;
 position:relative;
 color:white;
 margin:auto;
+width:60%;
+height:150px;
+
 }
 
 .card-blue{
@@ -17,6 +20,9 @@ margin:auto;
     position:relative;
 color:white;
 margin:auto;
+width:60%;
+height:150px;
+
 }
 
 .card-yellow{
@@ -25,6 +31,9 @@ margin:auto;
 position:relative;
 color:white;
 margin:auto;
+width:60%;
+height:150px;
+
 }
 
 .card-purple{
@@ -33,6 +42,9 @@ margin:auto;
 position:relative;
 color:white;
 margin:auto;
+width:60%;
+height:150px;
+
 }
 
 
