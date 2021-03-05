@@ -1,3 +1,4 @@
+\*© Achiever*\
 .red{
 color:red;
 content:'hi';
@@ -91,3 +92,21 @@ background:black;
     border:2px solid;
 }
 
+.input-light{
+    width:175px;
+    height:27px;
+    outline-color:black;
+    border:0.8px solid;
+    background-color:#fffff1;
+    transition:1s;
+    position:absolute ;
+    border-radius:4px;
+}
+
+.input-light:hover{
+    outline-color:whitesmoke;
+    width:200px;
+    left:20px;
+    transition:1s;
+    
+}
