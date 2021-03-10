@@ -1,133 +1,122 @@
-
-.red{
-color:red;
-content:'hi';
-font-size:20px;
-}
-.card-red{
-background-color:red;
-border-radius:10px;
-position:relative;
-color:white;
-margin:auto;
-width:60%;
-height:150px;
-text-align:center;
-
-}
-
-.card-blue{
-    background-color:blue;
-    border-radius:10px;
-    position:relative;
-color:white;
-margin:auto;
-width:60%;
-height:150px;
-text-align:center;
-}
-
-.card-yellow{
-    background-color:yellow;
-    border-radius:10px;
-position:relative;
-color:white;
-margin:auto;
-width:60%;
-height:150px;
-text-align:center;
-}
-
-.card-purple{
-    background-color:purple;
-    border-radius:10px;
-position:relative;
-color:white;
-margin:auto;
-width:60%;
-height:150px;
-text-align:center;
-
-}
-
-
-.line{
-width:6px;
-height:60px;
-background:black;
-}
-
-
-.navs{
-    background-color:black;
-    position:absolute ;
-    width:27px;
-    height:5px;
-    border-radius:2px; 
-}
-
-.navs:before{
-    content:'';
-     background-color:black;
-    position:absolute ;
-    width:27px;
-    height:5px;
-    border-radius:2px; 
-    top:8px;
-}
-
-.navs:after{
-    content:'';
-     background-color:black;
-    position:absolute ;
-    width:27px;
-    height:5px;
-    border-radius:2px; 
-    top:16px;
-}
-.box{
-    width:100px;
-    height:100px;
-    background-color:red;
-    border:2px solid;
-}
-
-.input-light{
-    width:175px;
-    height:27px;
-    outline-color:black;
-    border:0.8px solid;
-    background-color:#fffff1;
-    transition:1s;
-    position:absolute ;
-    border-radius:4px;
-}
-
-.input-light:hover{
-    outline-color:whitesmoke;
-    width:200px;
-    left:20px;
-    transition:1s;
+body {
     
 }
-.bell{
-    width:30px;
-    background-color:coral;
-    height:30px;
-    border:1px solid;
-    border-top-left-radius: 100px;
-    border-top-right-radius: 100px;
+
+.red{
+    width:250px;
+    height:150px;
+    background-color:red;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
 }
 
-.bell:after{
-    width:7px;
-    border:1.4px solid;
-    height:7px;
+.green{
+    width:250px;
+    height:150px;
+    background-color:green;
+    position:relative ;
     border-radius:5px;
-    position:absolute ;
-    content:'';
-    top:38px;
-    background-color:yellow;
-    left:18px;
-    z-index:-1;
+    margin:auto;
+    border:0.5px solid;
 }
+
+.green-light{
+    width:250px;
+    height:150px;
+    background-color:seagreen;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+
+.green-bright{
+    width:250px;
+    height:150px;
+    background-color:mediumseagreen;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+
+.purple{
+    width:250px;
+    height:150px;
+    background-color:purple;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+
+.yellow{
+    width:250px;
+    height:150px;
+    background-color:yellow;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+
+.blue{
+    width:250px;
+    height:150px;
+    background-color:blue;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+.orange{
+    width:250px;
+    height:150px;
+    background-color:orange;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+
+.orange-light{
+    width:250px;
+    height:150px;
+    background-color:coral;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+
+.pink{
+    width:250px;
+    height:150px;
+    background-color:deeppink;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+.pink-light{
+    width:250px;
+    height:150px;
+    background-color:pink;
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+
+.mix-pink{
+    width:250px;
+    height:150px;
+    background-color:linear-gradient(pink,deeppink);
+    position:relative ;
+    border-radius:5px;
+    margin:auto;
+    border:0.5px solid;
+}
+
