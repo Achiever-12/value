@@ -153,6 +153,7 @@ body {
     color:white;
     font-size:17px;
     user-select:none;
+    font-weight:bold;
 }
 
 .op-button:active{
