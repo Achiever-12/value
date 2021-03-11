@@ -143,3 +143,26 @@ body {
     border:1px solid #000;
     transition:1s;
 }
+.op-button{
+    width:120px;
+    height:40px;
+    background-color:#8565c4;
+    border-radius:5px;
+    outline:none;
+    border:none;
+    color:white;
+    font-size:17px;
+    user-select:none;
+}
+
+.op-button:active{
+    width:110px;
+    height:35px;
+    background-color:#8565c4;
+    border-radius:5px;
+    outline:none;
+    border:none;
+    color:white;
+    font-size:15px;
+    user-select:none;
+}
