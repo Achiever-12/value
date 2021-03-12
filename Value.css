@@ -211,3 +211,21 @@ body {
     border-radius:2px; 
     top:16px;
 }
+.val-select{
+    -webkit-appearance:none;
+    width:160px;
+    height:30px;
+    background-color:mediumseagreen;
+    border:1.5px solid black;
+    color:white;
+    outline:none;
+    font-size:20px;
+    text-align:left ;
+    position:relative ;
+    font-weight:bold;
+    border-radius:3px;
+    box-shadow:1px 1px 1px black;
+    -webkit-text-stroke:0.5px black;
+    text-transform:upper-alpha;
+}
+
